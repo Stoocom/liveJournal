@@ -1,0 +1,17 @@
+.inputComponent {
+    padding: 10px 20px;
+    width: 100%;
+    font-size: 16px;
+    outline: none;
+    border: 1px solid #ccc;
+    line-height: 1.5;
+    border: 1px solid darkgrey;
+    border-radius: 5px;
+}
+.inputError{
+    border: 1px solid red;
+}
+.error {
+    color: red;
+    font-size: 12px;
+}   
